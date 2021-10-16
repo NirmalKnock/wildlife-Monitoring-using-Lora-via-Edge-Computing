@@ -1,0 +1,11 @@
+lcd.c:22:6:lcd_Init	24	static
+lcd.c:125:6:LCD_Set_Cursor	16	static
+lcd.c:151:7:mdelay	24	static
+lcd.c:156:7:udelay	24	static
+lcd.c:170:13:Lcd_Enable	8	static
+lcd.c:184:13:write_4_bits	16	static
+lcd.c:207:7:lcd_Send_Command	16	static
+lcd.c:240:7:Lcd_Print_char	16	static
+lcd.c:261:6:Lcd_Display_clear	8	static
+lcd.c:274:6:Lcd_Print_String	16	static
+lcd.c:292:6:Lcd_Display_Return_to_Home	8	static

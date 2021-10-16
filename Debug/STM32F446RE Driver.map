@@ -1,0 +1,1725 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/rdimon-crt0.o (initialise_monitor_handles)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-errno.o)
+                              Src/sysmem.o (__errno)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-exit.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/rdimon-crt0.o (exit)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o) (__sinit)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fwalk.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o) (_fwalk)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-impure.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-init.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/rdimon-crt0.o (__libc_init_array)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memset.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/rdimon-crt0.o (memset)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-mallocr.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o) (_malloc_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-printf.o)
+                              Src/017rtc_lcd.o (printf)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-sbrkr.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o) (__sread)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-strlen.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o) (strlen)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-writer.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o) (_write_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-closer.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o) (_close_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fflush.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o) (_fflush_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-lseekr.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o) (_lseek_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-mlock.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-mallocr.o) (__malloc_lock)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-freer.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fflush.o) (_free_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-printf.o) (_vfprintf_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-readr.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o) (_read_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-reent.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-sbrkr.o) (errno)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wbuf.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wsetup.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o) (__swsetup_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fvwrite.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-makebuf.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memchr.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o) (memchr)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memcpy-stub.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fvwrite.o) (memcpy)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memmove.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fvwrite.o) (memmove)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-reallocr.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fvwrite.o) (_realloc_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fstatr.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-makebuf.o) (_fstat_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-isattyr.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-makebuf.o) (_isatty_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-msizer.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_exit.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-exit.o) (_exit)
+c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_kill.o)
+                              c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_exit.o) (_kill)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-reent.o)
+g_ds1307I2cHandle   0x1c              BSP/ds1307.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crti.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crti.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crti.o
+ .data          0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtbegin.o
+ .text          0x0000000000000000       0xe8 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/rdimon-crt0.o
+ .data          0x0000000000000000      0x118 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/rdimon-crt0.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/rdimon-crt0.o
+ .ARM.extab     0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/rdimon-crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/rdimon-crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/rdimon-crt0.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/ds1307.o
+ .text          0x0000000000000000        0x0 BSP/ds1307.o
+ .data          0x0000000000000000        0x0 BSP/ds1307.o
+ .bss           0x0000000000000000        0x0 BSP/ds1307.o
+ .text.ds1307_set_current_time
+                0x0000000000000000       0x92 BSP/ds1307.o
+ .text.ds1307_set_current_date
+                0x0000000000000000       0x60 BSP/ds1307.o
+ .text.ds1307_Write
+                0x0000000000000000       0x38 BSP/ds1307.o
+ .text.binary_to_bcd
+                0x0000000000000000       0x58 BSP/ds1307.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .group         0x0000000000000000        0xc BSP/lcd.o
+ .text          0x0000000000000000        0x0 BSP/lcd.o
+ .data          0x0000000000000000        0x0 BSP/lcd.o
+ .bss           0x0000000000000000        0x0 BSP/lcd.o
+ .text.Lcd_Display_Return_to_Home
+                0x0000000000000000       0x14 BSP/lcd.o
+ .debug_macro   0x0000000000000000      0xa48 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x16 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x22 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x8e BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x51 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0xef BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x6a BSP/lcd.o
+ .debug_macro   0x0000000000000000      0x1df BSP/lcd.o
+ .debug_macro   0x0000000000000000      0x174 BSP/lcd.o
+ .debug_macro   0x0000000000000000      0x7cc BSP/lcd.o
+ .debug_macro   0x0000000000000000       0xc4 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0xe8 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0xf9 BSP/lcd.o
+ .debug_macro   0x0000000000000000      0x157 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x46 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x18 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x3c BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x34 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x52 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x1f BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x43 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x20 BSP/lcd.o
+ .debug_macro   0x0000000000000000      0x1a3 BSP/lcd.o
+ .debug_macro   0x0000000000000000      0x330 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x10 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x35 BSP/lcd.o
+ .debug_macro   0x0000000000000000       0x20 BSP/lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/017rtc_lcd.o
+ .text          0x0000000000000000        0x0 Src/017rtc_lcd.o
+ .data          0x0000000000000000        0x0 Src/017rtc_lcd.o
+ .bss           0x0000000000000000        0x0 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000      0xa48 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0x22 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0x18 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0x3c Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0x34 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000      0x330 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0x52 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0x1f Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0x43 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0x20 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000      0x1a3 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0x6a Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0x16 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0xef Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000      0x1df Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000      0x7cc Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0xc4 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0xe8 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0xf9 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000      0x157 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000000000       0x94 Src/017rtc_lcd.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .text          0x0000000000000000        0x0 Src/sysmem.o
+ .data          0x0000000000000000        0x0 Src/sysmem.o
+ .bss           0x0000000000000000        0x0 Src/sysmem.o
+ .debug_macro   0x0000000000000000      0xa48 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x22 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x40 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x18 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x94 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x3c Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x34 Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x174 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x57 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x52 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x1f Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x43 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x20 Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x1a3 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x16 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x35 Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x330 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x10 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x10 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x6a Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x1c Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x52 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x40 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x10 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x40 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0xd7 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x1c Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x3d Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x16 Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x145 Src/sysmem.o
+ .text          0x0000000000000000       0x14 Startup/startup_stm32f446retx.o
+ .data          0x0000000000000000        0x0 Startup/startup_stm32f446retx.o
+ .bss           0x0000000000000000        0x0 Startup/startup_stm32f446retx.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_gpio_driver.o
+ .text          0x0000000000000000        0x0 drivers/src/stm32f446xx_gpio_driver.o
+ .data          0x0000000000000000        0x0 drivers/src/stm32f446xx_gpio_driver.o
+ .bss           0x0000000000000000        0x0 drivers/src/stm32f446xx_gpio_driver.o
+ .text.GPIO_DeInit
+                0x0000000000000000      0x144 drivers/src/stm32f446xx_gpio_driver.o
+ .text.GPIO_ReadFromInputPin
+                0x0000000000000000       0x2a drivers/src/stm32f446xx_gpio_driver.o
+ .text.GPIO_ReadFromInputPort
+                0x0000000000000000       0x1a drivers/src/stm32f446xx_gpio_driver.o
+ .text.GPIO_WriteToOutputPort
+                0x0000000000000000       0x1c drivers/src/stm32f446xx_gpio_driver.o
+ .text.GPIO_ToggleOutputPin
+                0x0000000000000000       0x28 drivers/src/stm32f446xx_gpio_driver.o
+ .text.GPIO_IRQInterruptConfig
+                0x0000000000000000      0x108 drivers/src/stm32f446xx_gpio_driver.o
+ .text.GPIO_IRQPriorityConfig
+                0x0000000000000000       0x52 drivers/src/stm32f446xx_gpio_driver.o
+ .text.GPIO_IRQHandling
+                0x0000000000000000       0x40 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000000000      0xa48 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000000000       0x16 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000000000       0x22 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000000000       0x8e drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000000000       0x51 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000000000       0xef drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000000000       0x6a drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000000000      0x1df drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000000000      0x174 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000000000      0x7cc drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000000000       0xf9 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000000000      0x157 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000000000       0xc4 drivers/src/stm32f446xx_gpio_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_i2c_driver.o
+ .text          0x0000000000000000        0x0 drivers/src/stm32f446xx_i2c_driver.o
+ .data          0x0000000000000000        0x0 drivers/src/stm32f446xx_i2c_driver.o
+ .bss           0x0000000000000000        0x0 drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_SlaveEnableDisableCallbackEvents
+                0x0000000000000000       0x66 drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_ClearSBFlag
+                0x0000000000000000       0x18 drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_DeInit
+                0x0000000000000000       0x88 drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_SlaveSendData
+                0x0000000000000000       0x1c drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_SlaveReceiverData
+                0x0000000000000000       0x18 drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_MasterSendDataIT
+                0x0000000000000000       0x86 drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_MasterReceiveDataIT
+                0x0000000000000000       0x8e drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_IRQInterruptConfig
+                0x0000000000000000      0x108 drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_IRQPriorityConfig
+                0x0000000000000000       0x5a drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_CloseReceiveData
+                0x0000000000000000       0x5c drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_CloseSendData
+                0x0000000000000000       0x44 drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_MasterHandlerTxEInterrupt
+                0x0000000000000000       0x3c drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_MasterHandlerRxNEInterrupt
+                0x0000000000000000       0x9a drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_EV_IRQHandling
+                0x0000000000000000      0x1b6 drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_ER_IRQHandling
+                0x0000000000000000      0x10c drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000      0xa48 drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000       0x16 drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000       0x22 drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000       0x8e drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000       0x51 drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000       0xef drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000       0x6a drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000      0x1df drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000      0x174 drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000      0x7cc drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000       0xc4 drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000       0xe8 drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000       0xf9 drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000000000      0x157 drivers/src/stm32f446xx_i2c_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_rcc_driver.o
+ .text          0x0000000000000000        0x0 drivers/src/stm32f446xx_rcc_driver.o
+ .data          0x0000000000000000        0x0 drivers/src/stm32f446xx_rcc_driver.o
+ .bss           0x0000000000000000        0x0 drivers/src/stm32f446xx_rcc_driver.o
+ .data.APB1_Prescalar
+                0x0000000000000000        0x8 drivers/src/stm32f446xx_rcc_driver.o
+ .text.RCC_GetPCLK2Value
+                0x0000000000000000       0xb8 drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000      0xa48 drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000       0x16 drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000       0x22 drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000       0x8e drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000       0x51 drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000       0xef drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000       0x6a drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000      0x1df drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000      0x174 drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000      0x7cc drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000       0xc4 drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000       0xe8 drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000       0xf9 drivers/src/stm32f446xx_rcc_driver.o
+ .debug_macro   0x0000000000000000      0x157 drivers/src/stm32f446xx_rcc_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_spi_driver.o
+ .text          0x0000000000000000        0x0 drivers/src/stm32f446xx_spi_driver.o
+ .data          0x0000000000000000        0x0 drivers/src/stm32f446xx_spi_driver.o
+ .bss           0x0000000000000000        0x0 drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_PeriClockControl
+                0x0000000000000000       0xb0 drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_Init
+                0x0000000000000000       0xb6 drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_DeInit
+                0x0000000000000000       0xac drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_Get_FlagStatus
+                0x0000000000000000       0x26 drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_SendData
+                0x0000000000000000       0x6c drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_ReceiveData
+                0x0000000000000000       0x6c drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_SendDataIT
+                0x0000000000000000       0x48 drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_ReceiveDataIT
+                0x0000000000000000       0x48 drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_IRQInterruptConfig
+                0x0000000000000000      0x108 drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_IRQPriorityConfig
+                0x0000000000000000       0x5a drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_IRQHandling
+                0x0000000000000000       0x9a drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_PeripheralControl
+                0x0000000000000000       0x36 drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_SSOEConfig
+                0x0000000000000000       0x36 drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_SSIConfig
+                0x0000000000000000       0x36 drivers/src/stm32f446xx_spi_driver.o
+ .text.spi_txe_interrupt_handle
+                0x0000000000000000       0x86 drivers/src/stm32f446xx_spi_driver.o
+ .text.spi_rxne_interrupt_handle
+                0x0000000000000000       0x90 drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_CloseTrasnmission
+                0x0000000000000000       0x34 drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_CloseReception
+                0x0000000000000000       0x34 drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_ApplicationEventCallback
+                0x0000000000000000       0x16 drivers/src/stm32f446xx_spi_driver.o
+ .text.SPI_ClearOVRFlag
+                0x0000000000000000       0x1e drivers/src/stm32f446xx_spi_driver.o
+ .text.spi_ovr_err_interrupt_handle
+                0x0000000000000000       0x30 drivers/src/stm32f446xx_spi_driver.o
+ .debug_info    0x0000000000000000      0x89e drivers/src/stm32f446xx_spi_driver.o
+ .debug_abbrev  0x0000000000000000      0x19f drivers/src/stm32f446xx_spi_driver.o
+ .debug_aranges
+                0x0000000000000000       0xc0 drivers/src/stm32f446xx_spi_driver.o
+ .debug_ranges  0x0000000000000000       0xb0 drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000       0xcb drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000      0xa48 drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000       0x16 drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000       0x22 drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000       0x8e drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000       0x51 drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000       0xef drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000       0x6a drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000      0x1df drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000      0x174 drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000      0x7cc drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000       0xc4 drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000       0xf9 drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000      0x157 drivers/src/stm32f446xx_spi_driver.o
+ .debug_macro   0x0000000000000000       0xe2 drivers/src/stm32f446xx_spi_driver.o
+ .debug_line    0x0000000000000000      0x6df drivers/src/stm32f446xx_spi_driver.o
+ .debug_str     0x0000000000000000     0x765a drivers/src/stm32f446xx_spi_driver.o
+ .comment       0x0000000000000000       0x7c drivers/src/stm32f446xx_spi_driver.o
+ .debug_frame   0x0000000000000000      0x33c drivers/src/stm32f446xx_spi_driver.o
+ .ARM.attributes
+                0x0000000000000000       0x33 drivers/src/stm32f446xx_spi_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_uart_driver.o
+ .text          0x0000000000000000        0x0 drivers/src/stm32f446xx_uart_driver.o
+ .data          0x0000000000000000        0x0 drivers/src/stm32f446xx_uart_driver.o
+ .bss           0x0000000000000000        0x0 drivers/src/stm32f446xx_uart_driver.o
+ .debug_info    0x0000000000000000       0x21 drivers/src/stm32f446xx_uart_driver.o
+ .debug_abbrev  0x0000000000000000       0x13 drivers/src/stm32f446xx_uart_driver.o
+ .debug_aranges
+                0x0000000000000000       0x18 drivers/src/stm32f446xx_uart_driver.o
+ .debug_macro   0x0000000000000000       0x11 drivers/src/stm32f446xx_uart_driver.o
+ .debug_macro   0x0000000000000000      0xa48 drivers/src/stm32f446xx_uart_driver.o
+ .debug_line    0x0000000000000000       0x49 drivers/src/stm32f446xx_uart_driver.o
+ .debug_str     0x0000000000000000     0x2cb9 drivers/src/stm32f446xx_uart_driver.o
+ .comment       0x0000000000000000       0x7c drivers/src/stm32f446xx_uart_driver.o
+ .ARM.attributes
+                0x0000000000000000       0x33 drivers/src/stm32f446xx_uart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .group         0x0000000000000000        0xc drivers/src/stm32f446xx_usart_driver.o
+ .text          0x0000000000000000        0x0 drivers/src/stm32f446xx_usart_driver.o
+ .data          0x0000000000000000        0x0 drivers/src/stm32f446xx_usart_driver.o
+ .bss           0x0000000000000000        0x0 drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_PeriClockControl
+                0x0000000000000000      0x140 drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_PeripheralControl
+                0x0000000000000000       0x3c drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_GetFlagStatus
+                0x0000000000000000       0x26 drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_ClearFlagStatus
+                0x0000000000000000       0x24 drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_Init
+                0x0000000000000000      0x110 drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_DeInit
+                0x0000000000000000       0xf8 drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_SendData
+                0x0000000000000000       0x9a drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_ReceiveData
+                0x0000000000000000       0xae drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_SendDataIT
+                0x0000000000000000       0x58 drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_ReceiveDataIT
+                0x0000000000000000       0x4e drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_IRQInterruptConfig
+                0x0000000000000000      0x108 drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_IRQPriorityConfig
+                0x0000000000000000       0x5a drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_IRQHandling
+                0x0000000000000000      0x35a drivers/src/stm32f446xx_usart_driver.o
+ .text.USART_SetBaudRate
+                0x0000000000000000       0xe4 drivers/src/stm32f446xx_usart_driver.o
+ .debug_info    0x0000000000000000     0x1010 drivers/src/stm32f446xx_usart_driver.o
+ .debug_abbrev  0x0000000000000000      0x27a drivers/src/stm32f446xx_usart_driver.o
+ .debug_aranges
+                0x0000000000000000       0x88 drivers/src/stm32f446xx_usart_driver.o
+ .debug_ranges  0x0000000000000000       0x78 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000      0x186 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000      0xa48 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x16 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x22 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x8e drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x51 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0xef drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x6a drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000      0x1df drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000      0x174 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000      0x7cc drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0xc4 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0xe8 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0xf9 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000      0x157 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x46 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x18 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x3c drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x34 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x52 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x1f drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x43 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x20 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000      0x1a3 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000      0x330 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x10 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x35 drivers/src/stm32f446xx_usart_driver.o
+ .debug_macro   0x0000000000000000       0x20 drivers/src/stm32f446xx_usart_driver.o
+ .debug_line    0x0000000000000000      0x889 drivers/src/stm32f446xx_usart_driver.o
+ .debug_str     0x0000000000000000     0xa62a drivers/src/stm32f446xx_usart_driver.o
+ .comment       0x0000000000000000       0x7c drivers/src/stm32f446xx_usart_driver.o
+ .debug_frame   0x0000000000000000      0x230 drivers/src/stm32f446xx_usart_driver.o
+ .ARM.attributes
+                0x0000000000000000       0x33 drivers/src/stm32f446xx_usart_driver.o
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._getpid  0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._sbrk    0x0000000000000000       0x48 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._stat    0x0000000000000000       0x3a c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._swiopen
+                0x0000000000000000       0xb8 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._open    0x0000000000000000       0x12 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._get_semihosting_exts
+                0x0000000000000000       0xb4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text.initialise_semihosting_exts
+                0x0000000000000000       0x34 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._has_ext_exit_extended
+                0x0000000000000000       0x18 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._has_ext_stdout_stderr
+                0x0000000000000000       0x18 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text.initialise_monitor_handles
+                0x0000000000000000       0xbc c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._link    0x0000000000000000       0x10 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._unlink  0x0000000000000000       0x28 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._gettimeofday
+                0x0000000000000000       0x2a c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._clock   0x0000000000000000       0x12 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._times   0x0000000000000000       0x16 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._system  0x0000000000000000       0x3e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._rename  0x0000000000000000       0x36 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .bss.heap_end.6247
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .bss.monitor_stderr
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .bss.monitor_stdin
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .bss.monitor_stdout
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .data.__heap_limit
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .data.supports_ext_exit_extended
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .data.supports_ext_stdout_stderr
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .rodata._get_semihosting_exts.str1.1
+                0x0000000000000000       0x16 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .rodata.initialise_monitor_handles.str1.1
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000        0xc c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000        0x2 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000        0x2 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000        0x2 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000        0x2 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x14 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x14 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x38 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000000000       0x28 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-printf.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o)
+ .text          0x0000000000000000       0x10 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000000       0x17 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x24 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x1a c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x14 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb8 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x10 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x29c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000000000       0x3c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memchr.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x0000000000000000       0x16 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000000       0x28 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000000000       0x32 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000000       0x28 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000       0x4c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000000000       0x3c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x0000000000000000       0x10 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000000000       0x20 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-msizer.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_exit.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_exit.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_exit.o)
+ .text._exit    0x0000000000000000        0xc c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_exit.o)
+ .debug_frame   0x0000000000000000       0x28 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_exit.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_kill.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_kill.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_kill.o)
+ .text._kill    0x0000000000000000       0x34 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_kill.o)
+ .debug_frame   0x0000000000000000       0x2c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_kill.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-_kill.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtend.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtend.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtend.o
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtn.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtn.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000020000 xrw
+ROM              0x0000000008000000 0x0000000000080000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crti.o
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtbegin.o
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/rdimon-crt0.o
+LOAD BSP/ds1307.o
+LOAD BSP/lcd.o
+LOAD Src/017rtc_lcd.o
+LOAD Src/sysmem.o
+LOAD Startup/startup_stm32f446retx.o
+LOAD drivers/src/stm32f446xx_gpio_driver.o
+LOAD drivers/src/stm32f446xx_i2c_driver.o
+LOAD drivers/src/stm32f446xx_rcc_driver.o
+LOAD drivers/src/stm32f446xx_spi_driver.o
+LOAD drivers/src/stm32f446xx_uart_driver.o
+LOAD drivers/src/stm32f446xx_usart_driver.o
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a
+START GROUP
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m\libgcc.a
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m\libgcc.a
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m\libgcc.a
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a
+END GROUP
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtend.o
+LOAD c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtn.o
+                0x0000000020020000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x1c4
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x1c4 Startup/startup_stm32f446retx.o
+                0x0000000008000000                g_pfnVectors
+                0x00000000080001c4                . = ALIGN (0x4)
+
+.text           0x00000000080001d0     0x26a8
+                0x00000000080001d0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000000080001d0       0x40 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtbegin.o
+ .text          0x0000000008000210       0xa0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memchr.o)
+                0x0000000008000210                memchr
+ *(.text*)
+ .text.ds1307_Init
+                0x00000000080002b0       0x34 BSP/ds1307.o
+                0x00000000080002b0                ds1307_Init
+ .text.ds1307_get_current_time
+                0x00000000080002e4       0x92 BSP/ds1307.o
+                0x00000000080002e4                ds1307_get_current_time
+ .text.ds1307_get_current_date
+                0x0000000008000376       0x68 BSP/ds1307.o
+                0x0000000008000376                ds1307_get_current_date
+ *fill*         0x00000000080003de        0x2 
+ .text.ds1307_i2c_pin_config
+                0x00000000080003e0       0x78 BSP/ds1307.o
+ .text.ds1307_i2c_peripheral_config
+                0x0000000008000458       0x2c BSP/ds1307.o
+ .text.ds1307_Read
+                0x0000000008000484       0x3c BSP/ds1307.o
+ .text.bcd_to_binary
+                0x00000000080004c0       0x34 BSP/ds1307.o
+ .text.lcd_Init
+                0x00000000080004f4      0x138 BSP/lcd.o
+                0x00000000080004f4                lcd_Init
+ .text.LCD_Set_Cursor
+                0x000000000800062c       0x4e BSP/lcd.o
+                0x000000000800062c                LCD_Set_Cursor
+ .text.mdelay   0x000000000800067a       0x2e BSP/lcd.o
+                0x000000000800067a                mdelay
+ .text.udelay   0x00000000080006a8       0x26 BSP/lcd.o
+                0x00000000080006a8                udelay
+ *fill*         0x00000000080006ce        0x2 
+ .text.Lcd_Enable
+                0x00000000080006d0       0x2c BSP/lcd.o
+ .text.write_4_bits
+                0x00000000080006fc       0x70 BSP/lcd.o
+ .text.lcd_Send_Command
+                0x000000000800076c       0x44 BSP/lcd.o
+                0x000000000800076c                lcd_Send_Command
+ .text.Lcd_Print_char
+                0x00000000080007b0       0x44 BSP/lcd.o
+                0x00000000080007b0                Lcd_Print_char
+ .text.Lcd_Display_clear
+                0x00000000080007f4       0x14 BSP/lcd.o
+                0x00000000080007f4                Lcd_Display_clear
+ .text.Lcd_Print_String
+                0x0000000008000808       0x2c BSP/lcd.o
+                0x0000000008000808                Lcd_Print_String
+ .text.main     0x0000000008000834       0xac Src/017rtc_lcd.o
+                0x0000000008000834                main
+ .text.SysTick_Handler
+                0x00000000080008e0       0xc8 Src/017rtc_lcd.o
+                0x00000000080008e0                SysTick_Handler
+ .text.number_to_string
+                0x00000000080009a8       0x74 Src/017rtc_lcd.o
+                0x00000000080009a8                number_to_string
+ .text.time_to_string
+                0x0000000008000a1c       0x54 Src/017rtc_lcd.o
+                0x0000000008000a1c                time_to_string
+ .text.get_day_of_week
+                0x0000000008000a70       0x3c Src/017rtc_lcd.o
+                0x0000000008000a70                get_day_of_week
+ .text.date_to_string
+                0x0000000008000aac       0x54 Src/017rtc_lcd.o
+                0x0000000008000aac                date_to_string
+ .text.init_systick_timer
+                0x0000000008000b00       0x70 Src/017rtc_lcd.o
+                0x0000000008000b00                init_systick_timer
+ .text._sbrk    0x0000000008000b70       0x58 Src/sysmem.o
+                0x0000000008000b70                _sbrk
+ .text.Reset_Handler
+                0x0000000008000bc8       0x50 Startup/startup_stm32f446retx.o
+                0x0000000008000bc8                Reset_Handler
+ .text.Default_Handler
+                0x0000000008000c18        0x2 Startup/startup_stm32f446retx.o
+                0x0000000008000c18                RTC_Alarm_IRQHandler
+                0x0000000008000c18                EXTI2_IRQHandler
+                0x0000000008000c18                TIM8_CC_IRQHandler
+                0x0000000008000c18                SPDIF_Rx_IRQHandler
+                0x0000000008000c18                DebugMon_Handler
+                0x0000000008000c18                SPI4_IRQHandler
+                0x0000000008000c18                TIM1_CC_IRQHandler
+                0x0000000008000c18                QuadSPI_IRQHandler
+                0x0000000008000c18                DMA2_Stream5_IRQHandler
+                0x0000000008000c18                HardFault_Handler
+                0x0000000008000c18                DMA1_Stream5_IRQHandler
+                0x0000000008000c18                PVD_IRQHandler
+                0x0000000008000c18                SDIO_IRQHandler
+                0x0000000008000c18                TAMP_STAMP_IRQHandler
+                0x0000000008000c18                PendSV_Handler
+                0x0000000008000c18                NMI_Handler
+                0x0000000008000c18                CAN2_RX1_IRQHandler
+                0x0000000008000c18                EXTI3_IRQHandler
+                0x0000000008000c18                TIM8_TRG_COM_TIM14_IRQHandler
+                0x0000000008000c18                TIM1_UP_TIM10_IRQHandler
+                0x0000000008000c18                FMPI2C1_error_IRQHandler
+                0x0000000008000c18                TIM8_UP_TIM13_IRQHandler
+                0x0000000008000c18                I2C3_ER_IRQHandler
+                0x0000000008000c18                EXTI0_IRQHandler
+                0x0000000008000c18                I2C2_EV_IRQHandler
+                0x0000000008000c18                DMA1_Stream2_IRQHandler
+                0x0000000008000c18                CAN1_RX0_IRQHandler
+                0x0000000008000c18                FPU_IRQHandler
+                0x0000000008000c18                OTG_HS_WKUP_IRQHandler
+                0x0000000008000c18                UsageFault_Handler
+                0x0000000008000c18                CAN2_SCE_IRQHandler
+                0x0000000008000c18                DMA2_Stream2_IRQHandler
+                0x0000000008000c18                SPI1_IRQHandler
+                0x0000000008000c18                TIM6_DAC_IRQHandler
+                0x0000000008000c18                TIM1_BRK_TIM9_IRQHandler
+                0x0000000008000c18                DCMI_IRQHandler
+                0x0000000008000c18                CAN2_RX0_IRQHandler
+                0x0000000008000c18                DMA2_Stream3_IRQHandler
+                0x0000000008000c18                FMPI2C1_IRQHandler
+                0x0000000008000c18                SAI2_IRQHandler
+                0x0000000008000c18                USART6_IRQHandler
+                0x0000000008000c18                USART3_IRQHandler
+                0x0000000008000c18                CAN1_RX1_IRQHandler
+                0x0000000008000c18                UART5_IRQHandler
+                0x0000000008000c18                DMA2_Stream0_IRQHandler
+                0x0000000008000c18                TIM4_IRQHandler
+                0x0000000008000c18                I2C1_EV_IRQHandler
+                0x0000000008000c18                HDMI_CEC_IRQHandler
+                0x0000000008000c18                DMA1_Stream6_IRQHandler
+                0x0000000008000c18                DMA1_Stream1_IRQHandler
+                0x0000000008000c18                UART4_IRQHandler
+                0x0000000008000c18                TIM3_IRQHandler
+                0x0000000008000c18                RCC_IRQHandler
+                0x0000000008000c18                TIM8_BRK_TIM12_IRQHandler
+                0x0000000008000c18                Default_Handler
+                0x0000000008000c18                EXTI15_10_IRQHandler
+                0x0000000008000c18                ADC_IRQHandler
+                0x0000000008000c18                DMA1_Stream7_IRQHandler
+                0x0000000008000c18                TIM7_IRQHandler
+                0x0000000008000c18                CAN2_TX_IRQHandler
+                0x0000000008000c18                TIM5_IRQHandler
+                0x0000000008000c18                DMA2_Stream7_IRQHandler
+                0x0000000008000c18                I2C3_EV_IRQHandler
+                0x0000000008000c18                EXTI9_5_IRQHandler
+                0x0000000008000c18                RTC_WKUP_IRQHandler
+                0x0000000008000c18                SPI2_IRQHandler
+                0x0000000008000c18                OTG_HS_EP1_IN_IRQHandler
+                0x0000000008000c18                MemManage_Handler
+                0x0000000008000c18                DMA1_Stream0_IRQHandler
+                0x0000000008000c18                CAN1_TX_IRQHandler
+                0x0000000008000c18                SVC_Handler
+                0x0000000008000c18                EXTI4_IRQHandler
+                0x0000000008000c18                OTG_HS_EP1_OUT_IRQHandler
+                0x0000000008000c18                WWDG_IRQHandler
+                0x0000000008000c18                TIM2_IRQHandler
+                0x0000000008000c18                OTG_FS_WKUP_IRQHandler
+                0x0000000008000c18                TIM1_TRG_COM_TIM11_IRQHandler
+                0x0000000008000c18                OTG_HS_IRQHandler
+                0x0000000008000c18                EXTI1_IRQHandler
+                0x0000000008000c18                USART2_IRQHandler
+                0x0000000008000c18                I2C2_ER_IRQHandler
+                0x0000000008000c18                DMA2_Stream1_IRQHandler
+                0x0000000008000c18                CAN1_SCE_IRQHandler
+                0x0000000008000c18                FLASH_IRQHandler
+                0x0000000008000c18                DMA2_Stream4_IRQHandler
+                0x0000000008000c18                BusFault_Handler
+                0x0000000008000c18                USART1_IRQHandler
+                0x0000000008000c18                OTG_FS_IRQHandler
+                0x0000000008000c18                SPI3_IRQHandler
+                0x0000000008000c18                DMA1_Stream4_IRQHandler
+                0x0000000008000c18                I2C1_ER_IRQHandler
+                0x0000000008000c18                FMC_IRQHandler
+                0x0000000008000c18                DMA2_Stream6_IRQHandler
+                0x0000000008000c18                SAI1_IRQHandler
+                0x0000000008000c18                DMA1_Stream3_IRQHandler
+ *fill*         0x0000000008000c1a        0x2 
+ .text.GPIO_PeriClockControl
+                0x0000000008000c1c      0x1a0 drivers/src/stm32f446xx_gpio_driver.o
+                0x0000000008000c1c                GPIO_PeriClockControl
+ .text.GPIO_Init
+                0x0000000008000dbc      0x328 drivers/src/stm32f446xx_gpio_driver.o
+                0x0000000008000dbc                GPIO_Init
+ .text.GPIO_WriteToOutputPin
+                0x00000000080010e4       0x48 drivers/src/stm32f446xx_gpio_driver.o
+                0x00000000080010e4                GPIO_WriteToOutputPin
+ .text.I2C_GenerateStartCondition
+                0x000000000800112c       0x1e drivers/src/stm32f446xx_i2c_driver.o
+                0x000000000800112c                I2C_GenerateStartCondition
+ .text.I2C_ExecuteAddressPhaseWrite
+                0x000000000800114a       0x2a drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_ExecuteAddressPhaseRead
+                0x0000000008001174       0x2a drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_ClearADDRFlag
+                0x000000000800119e       0x6e drivers/src/stm32f446xx_i2c_driver.o
+ .text.I2C_GenerateStopCondition
+                0x000000000800120c       0x1e drivers/src/stm32f446xx_i2c_driver.o
+                0x000000000800120c                I2C_GenerateStopCondition
+ .text.I2C_ManagaeAcking
+                0x000000000800122a       0x3a drivers/src/stm32f446xx_i2c_driver.o
+                0x000000000800122a                I2C_ManagaeAcking
+ .text.I2C_PeriClockControl
+                0x0000000008001264       0xb0 drivers/src/stm32f446xx_i2c_driver.o
+                0x0000000008001264                I2C_PeriClockControl
+ .text.I2C_Init
+                0x0000000008001314      0x178 drivers/src/stm32f446xx_i2c_driver.o
+                0x0000000008001314                I2C_Init
+ .text.I2C_MasterSendData
+                0x000000000800148c       0xc6 drivers/src/stm32f446xx_i2c_driver.o
+                0x000000000800148c                I2C_MasterSendData
+ .text.I2C_MasterReceiverData
+                0x0000000008001552      0x124 drivers/src/stm32f446xx_i2c_driver.o
+                0x0000000008001552                I2C_MasterReceiverData
+ .text.I2C_PeripheralControl
+                0x0000000008001676       0x36 drivers/src/stm32f446xx_i2c_driver.o
+                0x0000000008001676                I2C_PeripheralControl
+ .text.I2C_Get_FlagStatus
+                0x00000000080016ac       0x26 drivers/src/stm32f446xx_i2c_driver.o
+                0x00000000080016ac                I2C_Get_FlagStatus
+ .text.RCC_GetPLLOutputClk
+                0x00000000080016d2        0xe drivers/src/stm32f446xx_rcc_driver.o
+                0x00000000080016d2                RCC_GetPLLOutputClk
+ .text.RCC_GetPCLK1Value
+                0x00000000080016e0       0xb4 drivers/src/stm32f446xx_rcc_driver.o
+                0x00000000080016e0                RCC_GetPCLK1Value
+ .text.findslot
+                0x0000000008001794       0x34 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text.checkerror
+                0x00000000080017c8       0x20 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text.error    0x00000000080017e8       0x1c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .text._swiread
+                0x0000000008001804       0x20 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000008001804                _swiread
+ .text._read    0x0000000008001824       0x34 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000008001824                _read
+ .text._swilseek
+                0x0000000008001858       0x7a c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000008001858                _swilseek
+ .text._lseek   0x00000000080018d2        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080018d2                _lseek
+ .text._swiwrite
+                0x00000000080018d6       0x20 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080018d6                _swiwrite
+ .text._write   0x00000000080018f6       0x40 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080018f6                _write
+ .text._swiclose
+                0x0000000008001936       0x1c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000008001936                _swiclose
+ *fill*         0x0000000008001952        0x2 
+ .text._close   0x0000000008001954       0x4c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000008001954                _close
+ .text._swistat
+                0x00000000080019a0       0x42 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080019a0                _swistat
+ .text._fstat   0x00000000080019e2       0x1c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080019e2                _fstat
+ .text._isatty  0x00000000080019fe       0x38 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080019fe                _isatty
+ *fill*         0x0000000008001a36        0x2 
+ .text.__errno  0x0000000008001a38        0xc c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-errno.o)
+                0x0000000008001a38                __errno
+ .text.std      0x0000000008001a44       0x48 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x0000000008001a8c        0xc c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+                0x0000000008001a8c                _cleanup_r
+ .text.__sfmoreglue
+                0x0000000008001a98       0x2c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+                0x0000000008001a98                __sfmoreglue
+ .text.__sinit  0x0000000008001ac4       0x60 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+                0x0000000008001ac4                __sinit
+ .text.__sfp    0x0000000008001b24       0x78 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+                0x0000000008001b24                __sfp
+ .text._fwalk_reent
+                0x0000000008001b9c       0x3c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fwalk.o)
+                0x0000000008001b9c                _fwalk_reent
+ .text.__libc_init_array
+                0x0000000008001bd8       0x48 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-init.o)
+                0x0000000008001bd8                __libc_init_array
+ .text.memset   0x0000000008001c20       0x10 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memset.o)
+                0x0000000008001c20                memset
+ .text._malloc_r
+                0x0000000008001c30       0xb4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000008001c30                _malloc_r
+ .text.printf   0x0000000008001ce4       0x30 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-printf.o)
+                0x0000000008001ce4                iprintf
+                0x0000000008001ce4                printf
+ .text._sbrk_r  0x0000000008001d14       0x20 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-sbrkr.o)
+                0x0000000008001d14                _sbrk_r
+ .text.__sread  0x0000000008001d34       0x22 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o)
+                0x0000000008001d34                __sread
+ .text.__swrite
+                0x0000000008001d56       0x38 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o)
+                0x0000000008001d56                __swrite
+ .text.__sseek  0x0000000008001d8e       0x24 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o)
+                0x0000000008001d8e                __sseek
+ .text.__sclose
+                0x0000000008001db2        0x8 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o)
+                0x0000000008001db2                __sclose
+ *fill*         0x0000000008001dba        0x2 
+ .text._write_r
+                0x0000000008001dbc       0x24 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-writer.o)
+                0x0000000008001dbc                _write_r
+ .text._close_r
+                0x0000000008001de0       0x20 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-closer.o)
+                0x0000000008001de0                _close_r
+ .text.__sflush_r
+                0x0000000008001e00      0x10c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fflush.o)
+                0x0000000008001e00                __sflush_r
+ .text._fflush_r
+                0x0000000008001f0c       0x54 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fflush.o)
+                0x0000000008001f0c                _fflush_r
+ .text._lseek_r
+                0x0000000008001f60       0x24 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-lseekr.o)
+                0x0000000008001f60                _lseek_r
+ .text.__malloc_lock
+                0x0000000008001f84        0x2 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-mlock.o)
+                0x0000000008001f84                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000008001f86        0x2 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-mlock.o)
+                0x0000000008001f86                __malloc_unlock
+ .text._free_r  0x0000000008001f88       0x9c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-freer.o)
+                0x0000000008001f88                _free_r
+ .text.__sfputc_r
+                0x0000000008002024       0x2a c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x000000000800204e       0x24 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x000000000800204e                __sfputs_r
+ *fill*         0x0000000008002072        0x2 
+ .text._vfprintf_r
+                0x0000000008002074      0x22c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0000000008002074                _vfprintf_r
+                0x0000000008002074                _vfiprintf_r
+ .text._printf_common
+                0x00000000080022a0       0xea c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00000000080022a0                _printf_common
+ *fill*         0x000000000800238a        0x2 
+ .text._printf_i
+                0x000000000800238c      0x224 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x000000000800238c                _printf_i
+ .text._read_r  0x00000000080025b0       0x24 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-readr.o)
+                0x00000000080025b0                _read_r
+ .text.__swbuf_r
+                0x00000000080025d4       0xa4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wbuf.o)
+                0x00000000080025d4                __swbuf_r
+ .text.__swsetup_r
+                0x0000000008002678       0xdc c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wsetup.o)
+                0x0000000008002678                __swsetup_r
+ .text.__swhatbuf_r
+                0x0000000008002754       0x48 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-makebuf.o)
+                0x0000000008002754                __swhatbuf_r
+ .text.__smakebuf_r
+                0x000000000800279c       0x80 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-makebuf.o)
+                0x000000000800279c                __smakebuf_r
+ .text._fstat_r
+                0x000000000800281c       0x24 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fstatr.o)
+                0x000000000800281c                _fstat_r
+ .text._isatty_r
+                0x0000000008002840       0x20 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-isattyr.o)
+                0x0000000008002840                _isatty_r
+ *(.glue_7)
+ .glue_7        0x0000000008002860        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008002860        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008002860        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtbegin.o
+ *(.init)
+ .init          0x0000000008002860        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crti.o
+                0x0000000008002860                _init
+ .init          0x0000000008002864        0x8 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtn.o
+ *(.fini)
+ .fini          0x000000000800286c        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crti.o
+                0x000000000800286c                _fini
+ .fini          0x0000000008002870        0x8 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtn.o
+                0x0000000008002878                . = ALIGN (0x4)
+                0x0000000008002878                _etext = .
+
+.vfp11_veneer   0x0000000008002878        0x0
+ .vfp11_veneer  0x0000000008002878        0x0 linker stubs
+
+.v4_bx          0x0000000008002878        0x0
+ .v4_bx         0x0000000008002878        0x0 linker stubs
+
+.iplt           0x0000000008002878        0x0
+ .iplt          0x0000000008002878        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtbegin.o
+
+.rodata         0x0000000008002878       0xf4
+                0x0000000008002878                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x0000000008002878       0x5c Src/017rtc_lcd.o
+ *(.rodata*)
+ .rodata.__sf_fake_stderr
+                0x00000000080028d4       0x20 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+                0x00000000080028d4                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x00000000080028f4       0x20 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+                0x00000000080028f4                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x0000000008002914       0x20 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+                0x0000000008002914                __sf_fake_stdout
+ .rodata._global_impure_ptr
+                0x0000000008002934        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-impure.o)
+                0x0000000008002934                _global_impure_ptr
+ .rodata._vfprintf_r.str1.1
+                0x0000000008002938       0x11 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .rodata._printf_i.str1.1
+                0x0000000008002949       0x22 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x000000000800296c                . = ALIGN (0x4)
+ *fill*         0x000000000800296b        0x1 
+
+.rel.dyn        0x000000000800296c        0x0
+ .rel.iplt      0x000000000800296c        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtbegin.o
+
+.ARM.extab      0x000000000800296c        0x0
+                0x000000000800296c                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000000000800296c                . = ALIGN (0x4)
+
+.ARM            0x000000000800296c        0x0
+                0x000000000800296c                . = ALIGN (0x4)
+                0x000000000800296c                __exidx_start = .
+ *(.ARM.exidx*)
+                0x000000000800296c                __exidx_end = .
+                0x000000000800296c                . = ALIGN (0x4)
+
+.preinit_array  0x000000000800296c        0x0
+                0x000000000800296c                . = ALIGN (0x4)
+                0x000000000800296c                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x000000000800296c                PROVIDE (__preinit_array_end = .)
+                0x000000000800296c                . = ALIGN (0x4)
+
+.init_array     0x000000000800296c        0x4
+                0x000000000800296c                . = ALIGN (0x4)
+                0x000000000800296c                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x000000000800296c        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtbegin.o
+                0x0000000008002970                PROVIDE (__init_array_end = .)
+                0x0000000008002970                . = ALIGN (0x4)
+
+.fini_array     0x0000000008002970        0x4
+                0x0000000008002970                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008002970        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000008002974                . = ALIGN (0x4)
+                0x0000000008002974                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000       0x80 load address 0x0000000008002974
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.AHB_Prescalar
+                0x0000000020000000       0x12 drivers/src/stm32f446xx_rcc_driver.o
+                0x0000000020000000                AHB_Prescalar
+ *fill*         0x0000000020000012        0x2 
+ .data.APB2_Prescalar
+                0x0000000020000014        0x8 drivers/src/stm32f446xx_rcc_driver.o
+                0x0000000020000014                APB2_Prescalar
+ .data._impure_ptr
+                0x000000002000001c        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-impure.o)
+                0x000000002000001c                _impure_ptr
+ .data.impure_data
+                0x0000000020000020       0x60 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-impure.o)
+                0x0000000020000080                . = ALIGN (0x4)
+                0x0000000020000080                _edata = .
+
+.igot.plt       0x0000000020000080        0x0 load address 0x00000000080029f4
+ .igot.plt      0x0000000020000080        0x0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtbegin.o
+                0x0000000020000080                . = ALIGN (0x4)
+
+.bss            0x0000000020000080      0x100 load address 0x00000000080029f4
+                0x0000000020000080                _sbss = .
+                0x0000000020000080                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000080       0x1c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtbegin.o
+ *(.bss*)
+ .bss.buf.5599  0x000000002000009c        0x9 Src/017rtc_lcd.o
+ *fill*         0x00000000200000a5        0x3 
+ .bss.buf.5607  0x00000000200000a8        0x9 Src/017rtc_lcd.o
+ *fill*         0x00000000200000b1        0x3 
+ .bss.heap_end.5149
+                0x00000000200000b4        0x4 Src/sysmem.o
+ .bss.openfiles
+                0x00000000200000b8       0xa0 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .bss.__malloc_free_list
+                0x0000000020000158        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020000158                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x000000002000015c        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-mallocr.o)
+                0x000000002000015c                __malloc_sbrk_start
+ *(COMMON)
+ COMMON         0x0000000020000160       0x1c BSP/ds1307.o
+                0x0000000020000160                g_ds1307I2cHandle
+ COMMON         0x000000002000017c        0x4 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-reent.o)
+                0x000000002000017c                errno
+                0x0000000020000180                . = ALIGN (0x4)
+                0x0000000020000180                _ebss = .
+                0x0000000020000180                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x0000000020000180      0x600 load address 0x00000000080029f4
+                0x0000000020000180                . = ALIGN (0x8)
+                0x0000000020000180                PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x0000000020000380                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020000180      0x200 
+                0x0000000020000780                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000380      0x400 
+                0x0000000020000780                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004c       0x33 BSP/ds1307.o
+ .ARM.attributes
+                0x000000000000007f       0x33 BSP/lcd.o
+ .ARM.attributes
+                0x00000000000000b2       0x33 Src/017rtc_lcd.o
+ .ARM.attributes
+                0x00000000000000e5       0x33 Src/sysmem.o
+ .ARM.attributes
+                0x0000000000000118       0x21 Startup/startup_stm32f446retx.o
+ .ARM.attributes
+                0x0000000000000139       0x33 drivers/src/stm32f446xx_gpio_driver.o
+ .ARM.attributes
+                0x000000000000016c       0x33 drivers/src/stm32f446xx_i2c_driver.o
+ .ARM.attributes
+                0x000000000000019f       0x33 drivers/src/stm32f446xx_rcc_driver.o
+ .ARM.attributes
+                0x00000000000001d2       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .ARM.attributes
+                0x0000000000000200       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x000000000000022e       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000000000000025c       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x000000000000028a       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000002b8       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000002e6       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000314       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000000000000342       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-printf.o)
+ .ARM.attributes
+                0x0000000000000370       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000000000000039e       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000000000003cc       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000000000003fa       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x0000000000000428       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000000000000456       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x0000000000000484       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000000004b2       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000000000004e0       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x000000000000050e       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x000000000000053c       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x000000000000056a       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000598       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x00000000000005c6       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x00000000000005f4       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x0000000000000622       0x1c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x000000000000063e       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x000000000000066c       0x2e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x000000000000069a       0x1e c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/crtn.o
+OUTPUT(STM32F446RE Driver.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x43be
+ .debug_info    0x0000000000000000      0xe65 BSP/ds1307.o
+ .debug_info    0x0000000000000e65      0xb6a BSP/lcd.o
+ .debug_info    0x00000000000019cf      0xb17 Src/017rtc_lcd.o
+ .debug_info    0x00000000000024e6      0x91c Src/sysmem.o
+ .debug_info    0x0000000000002e02       0x22 Startup/startup_stm32f446retx.o
+ .debug_info    0x0000000000002e24      0x750 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_info    0x0000000000003574      0xa6d drivers/src/stm32f446xx_i2c_driver.o
+ .debug_info    0x0000000000003fe1      0x3dd drivers/src/stm32f446xx_rcc_driver.o
+
+.debug_abbrev   0x0000000000000000      0xd08
+ .debug_abbrev  0x0000000000000000      0x278 BSP/ds1307.o
+ .debug_abbrev  0x0000000000000278      0x252 BSP/lcd.o
+ .debug_abbrev  0x00000000000004ca      0x21c Src/017rtc_lcd.o
+ .debug_abbrev  0x00000000000006e6      0x1bb Src/sysmem.o
+ .debug_abbrev  0x00000000000008a1       0x12 Startup/startup_stm32f446retx.o
+ .debug_abbrev  0x00000000000008b3      0x159 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_abbrev  0x0000000000000a0c      0x228 drivers/src/stm32f446xx_i2c_driver.o
+ .debug_abbrev  0x0000000000000c34       0xd4 drivers/src/stm32f446xx_rcc_driver.o
+
+.debug_aranges  0x0000000000000000      0x308
+ .debug_aranges
+                0x0000000000000000       0x70 BSP/ds1307.o
+ .debug_aranges
+                0x0000000000000070       0x70 BSP/lcd.o
+ .debug_aranges
+                0x00000000000000e0       0x50 Src/017rtc_lcd.o
+ .debug_aranges
+                0x0000000000000130       0x20 Src/sysmem.o
+ .debug_aranges
+                0x0000000000000150       0x28 Startup/startup_stm32f446retx.o
+ .debug_aranges
+                0x0000000000000178       0x70 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_aranges
+                0x00000000000001e8       0xf0 drivers/src/stm32f446xx_i2c_driver.o
+ .debug_aranges
+                0x00000000000002d8       0x30 drivers/src/stm32f446xx_rcc_driver.o
+
+.debug_ranges   0x0000000000000000      0x290
+ .debug_ranges  0x0000000000000000       0x60 BSP/ds1307.o
+ .debug_ranges  0x0000000000000060       0x60 BSP/lcd.o
+ .debug_ranges  0x00000000000000c0       0x40 Src/017rtc_lcd.o
+ .debug_ranges  0x0000000000000100       0x10 Src/sysmem.o
+ .debug_ranges  0x0000000000000110       0x20 Startup/startup_stm32f446retx.o
+ .debug_ranges  0x0000000000000130       0x60 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_ranges  0x0000000000000190       0xe0 drivers/src/stm32f446xx_i2c_driver.o
+ .debug_ranges  0x0000000000000270       0x20 drivers/src/stm32f446xx_rcc_driver.o
+
+.debug_macro    0x0000000000000000     0x36f8
+ .debug_macro   0x0000000000000000      0x197 BSP/ds1307.o
+ .debug_macro   0x0000000000000197      0xa48 BSP/ds1307.o
+ .debug_macro   0x0000000000000bdf       0x16 BSP/ds1307.o
+ .debug_macro   0x0000000000000bf5       0x22 BSP/ds1307.o
+ .debug_macro   0x0000000000000c17       0x8e BSP/ds1307.o
+ .debug_macro   0x0000000000000ca5       0x51 BSP/ds1307.o
+ .debug_macro   0x0000000000000cf6       0xef BSP/ds1307.o
+ .debug_macro   0x0000000000000de5       0x6a BSP/ds1307.o
+ .debug_macro   0x0000000000000e4f      0x1df BSP/ds1307.o
+ .debug_macro   0x000000000000102e      0x174 BSP/ds1307.o
+ .debug_macro   0x00000000000011a2      0x7cc BSP/ds1307.o
+ .debug_macro   0x000000000000196e       0xc4 BSP/ds1307.o
+ .debug_macro   0x0000000000001a32       0xe8 BSP/ds1307.o
+ .debug_macro   0x0000000000001b1a       0xf9 BSP/ds1307.o
+ .debug_macro   0x0000000000001c13      0x157 BSP/ds1307.o
+ .debug_macro   0x0000000000001d6a       0x94 BSP/ds1307.o
+ .debug_macro   0x0000000000001dfe       0x46 BSP/ds1307.o
+ .debug_macro   0x0000000000001e44       0x18 BSP/ds1307.o
+ .debug_macro   0x0000000000001e5c       0x3c BSP/ds1307.o
+ .debug_macro   0x0000000000001e98       0x34 BSP/ds1307.o
+ .debug_macro   0x0000000000001ecc       0x52 BSP/ds1307.o
+ .debug_macro   0x0000000000001f1e       0x1f BSP/ds1307.o
+ .debug_macro   0x0000000000001f3d       0x43 BSP/ds1307.o
+ .debug_macro   0x0000000000001f80       0x20 BSP/ds1307.o
+ .debug_macro   0x0000000000001fa0      0x1a3 BSP/ds1307.o
+ .debug_macro   0x0000000000002143      0x330 BSP/ds1307.o
+ .debug_macro   0x0000000000002473       0x10 BSP/ds1307.o
+ .debug_macro   0x0000000000002483       0x35 BSP/ds1307.o
+ .debug_macro   0x00000000000024b8       0x20 BSP/ds1307.o
+ .debug_macro   0x00000000000024d8      0x191 BSP/lcd.o
+ .debug_macro   0x0000000000002669       0x52 BSP/lcd.o
+ .debug_macro   0x00000000000026bb      0x23b Src/017rtc_lcd.o
+ .debug_macro   0x00000000000028f6       0x40 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002936       0x94 Src/017rtc_lcd.o
+ .debug_macro   0x00000000000029ca       0x16 Src/017rtc_lcd.o
+ .debug_macro   0x00000000000029e0       0x57 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002a37       0x97 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002ace       0xfd Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002bcb       0x10 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002bdb       0x10 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002beb       0x1c Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002c07       0x52 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002c59       0x40 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002c99       0x10 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002ca9       0x40 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002ce9       0xd7 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002dc0       0x1c Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002ddc       0x3d Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002e19       0x16 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002e2f      0x145 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002f74       0x58 Src/017rtc_lcd.o
+ .debug_macro   0x0000000000002fcc      0x1ae Src/sysmem.o
+ .debug_macro   0x000000000000317a       0x10 Src/sysmem.o
+ .debug_macro   0x000000000000318a      0x23b Src/sysmem.o
+ .debug_macro   0x00000000000033c5       0xcb drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000003490       0xe2 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_macro   0x0000000000003572       0xc1 drivers/src/stm32f446xx_i2c_driver.o
+ .debug_macro   0x0000000000003633       0xc5 drivers/src/stm32f446xx_rcc_driver.o
+
+.debug_line     0x0000000000000000     0x2e98
+ .debug_line    0x0000000000000000      0x6c6 BSP/ds1307.o
+ .debug_line    0x00000000000006c6      0x6de BSP/lcd.o
+ .debug_line    0x0000000000000da4      0x77f Src/017rtc_lcd.o
+ .debug_line    0x0000000000001523      0x559 Src/sysmem.o
+ .debug_line    0x0000000000001a7c       0x84 Startup/startup_stm32f446retx.o
+ .debug_line    0x0000000000001b00      0x68a drivers/src/stm32f446xx_gpio_driver.o
+ .debug_line    0x000000000000218a      0x84b drivers/src/stm32f446xx_i2c_driver.o
+ .debug_line    0x00000000000029d5      0x4c3 drivers/src/stm32f446xx_rcc_driver.o
+
+.debug_str      0x0000000000000000     0xc4e1
+ .debug_str     0x0000000000000000     0xa45e BSP/ds1307.o
+                                       0xa700 (size before relaxing)
+ .debug_str     0x000000000000a45e      0x224 BSP/lcd.o
+                                       0xa487 (size before relaxing)
+ .debug_str     0x000000000000a682     0x12b1 Src/017rtc_lcd.o
+                                       0xb78d (size before relaxing)
+ .debug_str     0x000000000000b933      0x4b9 Src/sysmem.o
+                                       0x7a9e (size before relaxing)
+ .debug_str     0x000000000000bdec       0x31 Startup/startup_stm32f446retx.o
+                                         0x65 (size before relaxing)
+ .debug_str     0x000000000000be1d      0x2ef drivers/src/stm32f446xx_gpio_driver.o
+                                       0x75bd (size before relaxing)
+ .debug_str     0x000000000000c10c      0x312 drivers/src/stm32f446xx_i2c_driver.o
+                                       0x7763 (size before relaxing)
+ .debug_str     0x000000000000c41e       0xc3 drivers/src/stm32f446xx_rcc_driver.o
+                                       0x7404 (size before relaxing)
+
+.comment        0x0000000000000000       0x7b
+ .comment       0x0000000000000000       0x7b BSP/ds1307.o
+                                         0x7c (size before relaxing)
+ .comment       0x000000000000007b       0x7c BSP/lcd.o
+ .comment       0x000000000000007b       0x7c Src/017rtc_lcd.o
+ .comment       0x000000000000007b       0x7c Src/sysmem.o
+ .comment       0x000000000000007b       0x7c drivers/src/stm32f446xx_gpio_driver.o
+ .comment       0x000000000000007b       0x7c drivers/src/stm32f446xx_i2c_driver.o
+ .comment       0x000000000000007b       0x7c drivers/src/stm32f446xx_rcc_driver.o
+
+.debug_frame    0x0000000000000000     0x15b4
+ .debug_frame   0x0000000000000000      0x19c BSP/ds1307.o
+ .debug_frame   0x000000000000019c      0x18c BSP/lcd.o
+ .debug_frame   0x0000000000000328      0x118 Src/017rtc_lcd.o
+ .debug_frame   0x0000000000000440       0x34 Src/sysmem.o
+ .debug_frame   0x0000000000000474      0x1c8 drivers/src/stm32f446xx_gpio_driver.o
+ .debug_frame   0x000000000000063c      0x420 drivers/src/stm32f446xx_i2c_driver.o
+ .debug_frame   0x0000000000000a5c       0x78 drivers/src/stm32f446xx_rcc_driver.o
+ .debug_frame   0x0000000000000ad4      0x3ac c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\librdimon_nano.a(rdimon-syscalls.o)
+ .debug_frame   0x0000000000000e80       0x20 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000ea0      0x11c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000000fbc       0x54 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000001010       0x2c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x000000000000103c       0x20 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x000000000000105c       0x2c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000001088       0x74 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-printf.o)
+ .debug_frame   0x00000000000010fc       0x2c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000001128       0x88 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x00000000000011b0       0x2c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x00000000000011dc       0x2c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x0000000000001208       0x68 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000001270       0x2c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x000000000000129c       0x30 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000000000012cc       0x38 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000001304       0xac c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x00000000000013b0       0x60 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x0000000000001410       0x2c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x000000000000143c       0x5c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000001498       0x40 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x00000000000014d8       0x2c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x0000000000001504       0x58 c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x000000000000155c       0x2c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000001588       0x2c c:/st/stm32cubeide_1.3.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc_nano.a(lib_a-isattyr.o)
